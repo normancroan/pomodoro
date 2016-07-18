@@ -1,2 +1,2 @@
 # pomodoro
-Pomodoro timer in Node
+Pomodoro timer in Node, perhaps distributed as a Linux snap?
